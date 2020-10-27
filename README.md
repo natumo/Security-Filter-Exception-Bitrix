@@ -1,2 +1,2 @@
 # Security-Filter-Exception-Bitrix
-Security Filter Exception Bitrix
+Добавление исключений в проактивный фильтр bitrix
